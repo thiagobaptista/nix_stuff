@@ -12,8 +12,8 @@ source /path/to/file/exports.sh
 
 I strongly suggest that you place this file at the root of your home directory.
 
-## Licence
+## License
 
-This is a free software, distributed under the GPL v.3 licence but WITHOUT ANY WARRANTY.
+This is a free software, distributed under the GPL v.3 license but WITHOUT ANY WARRANTY.
 
-Please refer to the LICENCE file in the root of this repository for further reading.
+Please refer to the LICENSE file in the root of this repository for further reading.
